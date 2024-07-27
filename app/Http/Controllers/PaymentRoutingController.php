@@ -24,8 +24,7 @@ class PaymentRoutingController extends Controller
         ];
 
         try {
-            $router = app('payment.router');
-            $processor = $router->route($paymentDetails);
+            $processor = $this->paymentRouter->route($paymentDetails);
             $data = $processor->processPayment($paymentDetails);
 
             return response()->json(['status' => true, 'data' => $data]);
