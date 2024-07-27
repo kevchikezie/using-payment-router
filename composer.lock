@@ -1052,16 +1052,16 @@
         },
         {
             "name": "kevchikezie/payment-router",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kevchikezie/payment-router.git",
-                "reference": "5d3a133e9abf2ffa8078865a503b2bf026c618a6"
+                "reference": "a5e4ae88dd973261e9ea479b64ac6a04783daf41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kevchikezie/payment-router/zipball/5d3a133e9abf2ffa8078865a503b2bf026c618a6",
-                "reference": "5d3a133e9abf2ffa8078865a503b2bf026c618a6",
+                "url": "https://api.github.com/repos/kevchikezie/payment-router/zipball/a5e4ae88dd973261e9ea479b64ac6a04783daf41",
+                "reference": "a5e4ae88dd973261e9ea479b64ac6a04783daf41",
                 "shasum": ""
             },
             "require": {
@@ -1116,9 +1116,9 @@
             ],
             "support": {
                 "issues": "https://github.com/kevchikezie/payment-router/issues",
-                "source": "https://github.com/kevchikezie/payment-router/tree/v1.0.0"
+                "source": "https://github.com/kevchikezie/payment-router/tree/v1.0.1"
             },
-            "time": "2024-07-27T14:50:01+00:00"
+            "time": "2024-07-27T15:51:38+00:00"
         },
         {
             "name": "laravel/framework",
